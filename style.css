@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    /* background-color: black; */
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.full-container{
+    display: flex;
+}
+
+/* LEFT SIDE  */
+.left-container {
+    /* background-color:rgb(33,33,33)  ; */
+    width: 230px;
+    height: 100%;
+    border: 1px solid black;
+    /* color: white; */
+}
+
+.head {
+    width: 180px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    margin-left: -2px;
+}
+
+/* CONTENT PART  */
+
+.home {
+    /* border: 1px solid red; */
+    height: 25px;
+    display: flex;
+    margin-top: 5px;
+    padding-left: 18px;
+}
+
+.home p {
+    /* border: 1px solid red; */
+    margin-top: 3px;
+    margin-left: 15px;
+}
+
+
+.sub {
+    /* border: 1px solid red; */
+    height: 25px;
+    display: flex;
+   padding-left: 18px;
+   margin-top: 5px;
+}
+h4{
+    margin-top: -10px;
+    margin-left: 20px;
+    /* color: rgb(170,170,170); */
+}
+
+.sub p {
+    /* border: 1px solid red; */
+    margin-top: 3px;
+    margin-left: 15px;
+}
+
+/* RIGHT SIDE  */
+input{
+    width: 400px;
+    height: 30px;
+}
+.frstp{
+    margin-left: 150px;
+    width: 600px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+#sear{
+    margin-bottom: -13.5px;
+    margin-left: -5px;
+    height: 34px;
+    border: 1px solid black;
+}
+
+#voice{
+    margin-bottom: -12px;
+    margin-left: -1px;
+    height: 30px;
+}
+
+.lastp{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.hr{
+    margin-left: 10px;
+    width: 1110px;
+}
+
+.secline{
+    display:flex;
+}
+.all{
+    font-size: 12px;
+    text-align: center;
+    /* border: 1px solid red; */
+    padding: 0.1px;
+    margin-left: 19px;
+    border-radius: 45%;
+    color: white;
+    background-color: gray;
+}
+
+.a1{
+    width: 45px;
+    background-color: black;
+}
+
+.a2{
+    width: 80px;
+}
+
+.a3{
+    width: 40px;
+}
+.a4{
+    width: 80px;
+}
+.a5{
+    width: 50px;
+}
+.a6{
+    width: 80px;
+}
+.a7{
+    width: 80px;
+}
+.a8{
+    width: 80px;
+}
+.a9{
+    width: 80px;
+}
+.a10{
+    width: 80px;
+}
+.a11{
+    width: 120px;
+}
+.a12{
+    width: 60px;
+}
